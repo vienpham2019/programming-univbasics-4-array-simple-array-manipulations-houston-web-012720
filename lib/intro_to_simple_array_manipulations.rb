@@ -24,3 +24,7 @@ def shift_with_args(array)
   return first_two_items
 end
 
+def using_concat(array1, array2)
+  array1.concat(array2)
+end
+
